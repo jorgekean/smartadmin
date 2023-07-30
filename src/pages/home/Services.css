@@ -1,0 +1,20 @@
+.card-service:hover {
+    background: #e0eafc;
+    color: #3F80EA;
+    /* height: 135px; 3e4555
+    width: 290px !important; */
+}
+
+.card-service.card-dark:hover {
+    background: #3e4555;
+    color: #3F80EA;
+    /* height: 135px; 3e4555
+    width: 290px !important; */
+}
+
+.vl {
+    border-left: 2px solid white;
+    height: 500px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
