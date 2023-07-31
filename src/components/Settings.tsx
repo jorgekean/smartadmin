@@ -117,7 +117,7 @@ const Settings = () => {
           title="Theme Builder"
           onClick={() => setIsOpen(true)}
         >
-          {/* <Sliders className="feather align-middle" /> Builder */}
+          <Sliders className="feather align-middle" /> Builder
         </div>
         <a
           className="settings-toggle-option"

@@ -10,6 +10,7 @@ import "./mocks";
 import "jsvectormap";
 import "./vendor/world.js";
 import "./vendor/us_aea_en.js";
+import "./assets/scss/light.scss";
 
 const container = document.getElementById("root");
 const root = createRoot(container as Element);

@@ -20,10 +20,10 @@ const AuthenticationSettings: React.FC = () => {
 
     useEffect(() => {
         const fetchData = async () => {
-            const response = await axios.get("/api/settings");// , { params: { environment: "DEFAULT", type: "authOkta" } }
-            const { settings } = response.data;
+            // const response = await axios.get("/api/settings");// , { params: { environment: "DEFAULT", type: "authOkta" } }
+            // const { settings } = response.data;
 
-            console.log(settings)
+            // console.log(settings)
         };
         fetchData();
     }, [])
