@@ -1,1 +1,0 @@
-import{P as c,j as i,Q as m}from"./main-2dc2308b.js";import{r as x}from"./chartjs-8bcccd15.js";const t=x.forwardRef(({bsPrefix:a,size:s,vertical:e=!1,className:p,role:u="group",as:f="div",...l},n)=>{const r=c(a,"btn-group");let o=r;return e&&(o=`${r}-vertical`),i(f,{...l,ref:n,role:u,className:m(p,o,s&&`${r}-${s}`)})});t.displayName="ButtonGroup";const d=t;export{d as B};
